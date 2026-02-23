@@ -8,9 +8,8 @@
 </head>
 <body>
 
-    <h1 style="background-color: blue; color: black;">
-        TCC
-    </h1>
+<h1 style="color:blue;">Título Azul</h1>
+<p style="color:red;">Parágrafo Vermelho</p>
 
 </body>
 </html>

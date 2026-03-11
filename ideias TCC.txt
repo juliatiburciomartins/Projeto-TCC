@@ -1,0 +1,19 @@
+Ideia 1 - Stevan
+
+Sistema controle estoque de comércio (pensando em detalhes para se diferenciar de outros sistemas) 
+
+Ideia 1 - Julia 
+
+Aplicativo que analisa preço de supermercados e te envia notificações de preços baixos de acordo com produtos que você selecionou previamente
+
+Ideia 1 - Rafael - ABRANGENTE
+
+Algo relacionado a acessibilidade em sistemas
+
+Ideia 2 - Stevan
+
+Sistema de gerenciamento de armários (facilita e otimiza compra)
+
+
+
+
